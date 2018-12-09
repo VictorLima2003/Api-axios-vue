@@ -1,29 +1,8 @@
-# vue-axios
+# O Projeto
 
-## Project setup
-```
-yarn install
-```
+-- Pela primeira vez consumino uma API com Vue js e Axios
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+# Descrição
 
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+-- Projeto simples;
+-- Para estudo;
